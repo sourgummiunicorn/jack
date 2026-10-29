@@ -1,0 +1,19 @@
+*{
+    background-color: #000000;
+}
+
+.container {
+    width: 360px;
+    line-height: 0;
+}
+
+.switchOn {
+    background-color: #E4FF99;
+}
+
+button {
+    font-family: Arial, Helvetica,sans-serif;
+    color: #EBF9FF;
+    padding: 1%;
+    border-radius: 10%;
+}
